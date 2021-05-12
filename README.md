@@ -1,4 +1,4 @@
-# collatz
+# python-collatz
 A simple collatz sequence generator implemented as a generator.
 
 [See wikipedia for some information on the quite interesting Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture)
